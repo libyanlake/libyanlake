@@ -5,16 +5,18 @@
 
 
                                         PUBLISHED RESEARCH
-          ▪               ┌─ Phrack Magazine – Issue 72    [UPCOMING]                            .-""""-
-         ▪▪▪              └─> "Resource-constrained, Evasive C payloads"                        F    .-'  
-          ▪                                                                                    F    J  
-                          ┌─ Paged Out! Institute – Vol. 7 [UPCOMING]                         F    J      
-                          └─> “Pre-main code execution via GCC constructors”                  I    I
-                                                                                              I     I  
-                                                                                               L    `. 
-                                                                                                 L     `-._, 
-                                 ___________________                                                `-.__.-'
-                                / CURRENT RESEARCH /
+          ▪               ┌─ Phrack Magazine – Issue 72    [UPCOMING]                           
+         ▪▪▪              └─> "Resource-constrained, Evasive C payloads"                      ___________
+          ▪                                                                                  / ========= \
+                          ┌─ Paged Out! Institute – Vol. 7 [UPCOMING]                       / ___________ \
+                          └─> “Pre-main code execution via GCC constructors”               | _____________ |
+                                                                                           | | ничего не | |
+                                                                                           | | поделаешь | |
+                                                                                           | |___________| |
+                                                                                           \=______________/
+                                                                                           / """""""""""   \
+                                 ___________________                                      / :::::::::::::   \
+                                / CURRENT RESEARCH /                                     (___________________)
                         ______ /==================/ ___________                    _________________________
                         |        EFI implants in C            |                    |        LANGUAGES      |
         -^^,--,~        |         Face recogition             |                    |_______________________|
@@ -99,4 +101,4 @@
 ⡈⢆⡘⢂⠱⠨⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢌⡡⢊⠆⣉
 ⠐⢢⠘⠤⡉⡕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠢⢅⡊⠤
 ⢈⠢⢉⠆⡱⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠒⡌⠱
-</pre
+              </pre>
