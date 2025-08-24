@@ -20,8 +20,7 @@
 | repo         | language | description |
 |--------------|----------|-------------|
 | **DylibWalk** | C / ASM  | Runtime function retrieval for iOS malware |
-| **Phosphorus** | C        | Dump & persist implants via NVRAM variables [WIP] |
-| **0xBoot**    | C++      | Re-install-persistent Windows rootkit [WIP] |
+| **Phosphorus** | C        | Dumpable & persistant implants via NVRAM variables [WIP] |
 
 </div>
 
@@ -37,4 +36,4 @@
 
 ---
 
-> “It is a shame to grow old without knowing what you were capable of during your youth.”
+> “A man without fear cannot be wise.”
